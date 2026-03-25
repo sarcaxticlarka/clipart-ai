@@ -28,8 +28,8 @@ The system uses a 3-layer stack to ensure security and scalability:
 3. **AI Core**: Community-powered **AI Horde** for 100% free image generation (no user costs).
 
 ### Architecture Diagrams
-| Class Diagram | Activity Diagram | Sequence Diagram |
-| :---: | :---: | :---: |
+| Class Diagram | Activity Diagram | Sequence Diagram | Use Case Diagram |
+| :---: | :---: | :---: | :---: |
 | ![Class Diagram](docs/Class_diagram.png) | ![Activity Diagram](docs/activity_diagram.png) | ![Sequence Diagram](docs/Sequence_diagram.png) | ![Use Case Diagram](docs/Use_case_diagram.png) |
 
 ## 🛠️ Setup & Installation
