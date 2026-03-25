@@ -39,7 +39,13 @@ The system uses a 3-layer stack to ensure security and scalability:
 - Expo Go app on Android
 - (Optional) EAS CLI for building APK
 
-### 1. Backend Setup
+### 1. Clone the Repository
+```bash
+git clone https://github.com/sarcaxticlarka/clipart-ai.git
+cd clipart-ai
+```
+
+### 2. Backend Setup
 ```bash
 cd backend
 npm install
@@ -73,4 +79,4 @@ npx eas build -p android --profile preview
 - **GitHub Repository**: [sarcaxticlarka/clipart-ai](https://github.com/sarcaxticlarka/clipart-ai)
 
 ---
-*Created for AI Clipart Generator Assignment - 2026*
+ 
