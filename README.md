@@ -62,14 +62,15 @@ npx eas build -p android --profile preview
 
 ## 🧠 Tech Decisions & Tradeoffs
 - **AI Horde vs. OpenAI**: Switched from Pollinations/OpenAI to AI Horde to provide a **100% free solution** for the assignment. 
+  - *Note*: The backend is hosted on **Render (Free Tier)**. It may take 30-60 seconds to spin up on the first request.
   - *Tradeoff*: Generation takes ~30-60s vs ~10s, but it removes all payment barriers.
 - **Base64 vs. Multi-part**: Used Base64 for image transmission to maintain a lightweight proxy body and simplify async job submission.
 - **React Native Gesture Handler**: Used for smooth navigation and interaction states to avoid "janky" transitions.
 
 ## 🔗 Links
-- **APK Download**: [Google Drive Link](LINK_HERE)
-- **Screen Recording**: [Drive Walkthrough](LINK_HERE)
-- **GitHub Repository**: [clipart-ai](GITHUB_LINK_HERE)
+- **APK Download**: [Google Drive Link](https://drive.google.com/file/d/1q5bn2XHeURpw8WSwafzymkPt1NNFNsq5/view?usp=drivesdk)
+- **Screen Recording**: [Drive Walkthrough](https://drive.google.com/file/d/1utj4AHdk3tD2deGVWOnVnxPtdf0c3Mdz/view?usp=drivesdk)
+- **GitHub Repository**: [sarcaxticlarka/clipart-ai](https://github.com/sarcaxticlarka/clipart-ai)
 
 ---
 *Created for AI Clipart Generator Assignment - 2026*
